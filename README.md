@@ -6,7 +6,7 @@ Write tests once, run them both on [NEAR TestNet](https://docs.near.org/docs/con
 The same testing interface will be supported for multiple languages.
 
 * TypeScript/JavaScript: [near/runner-js](https://github.com/near/runner-js)
-* Rust: coming soon
+* Rust: [near/runner-rs](https://github.com/near/runner-rs) (in early alpha; you can use runner-js with Rust projects for now)
 
 
 Demo & Visioning
